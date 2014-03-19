@@ -16,4 +16,3 @@ function blink()
     end
 end
 txt_blink = timer.performWithDelay(500, blink, 0)
-
